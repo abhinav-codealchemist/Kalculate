@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/Kalculate.svg)](http://hits.dwyl.io/abhinav-codealchemist/Kalculate)
 # Kalculate
 Scientific Calculator
 
